@@ -1,0 +1,21 @@
+{
+    "name": "rusty",
+    "displayName": "Rusty",
+    "description": "Theme based on \"Rust\" theme from rust docs.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Rusty Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Rusty Theme-color-theme.json"
+            }
+        ]
+    }
+}
